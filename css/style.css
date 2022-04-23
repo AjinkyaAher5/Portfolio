@@ -728,6 +728,14 @@ textarea {
       width: 90%;
      margin-left: 20px;
     }
+    .react{
+      /* border: 1px solid red; */
+      margin-left: 4%;
+    }
+    .js{
+      /* border: 1px solid red; */
+      padding-left: 20%;
+    }
 
     .skills1 {
       display: grid;
