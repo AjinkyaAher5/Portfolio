@@ -2,7 +2,7 @@
 
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
-## [Demo Link](https://dopefolio.netlify.app) 🔗
+## [Demo Link](https://ajinkya-aher-portfolio.netlify.app/) 🔗
 
 <div align="center">
   <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Dopefolio Demo" width="100%" />
@@ -30,7 +30,7 @@
 
 ## Test the template with different colors on the playground link 🚀
 
-## [Playground Link](https://dopefolio-playground.netlify.app) 🔗
+## [Playground Link](https://ajinkya-aher-portfolio.netlify.app/) 🔗
 
 <div align="center">
   <img src="https://i.postimg.cc/xjsqN9GG/ezgif-com-gif-maker-2.gif" alt="Dopefolio Playground" width="100%" />
